@@ -28,3 +28,4 @@ int main(){
 size_t getSize(int *ptr){
     return sizeof( ptr );
 }
+
